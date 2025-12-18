@@ -26,20 +26,20 @@ git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1
  cd WhiteSur-gtk-theme 
  ./install.sh -d /usr/share/themes
 ```
-## clone Icon Whitesur
+## Clone Icon Whitesur
 ```
 git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1 
  cd WhiteSur-gtk-theme 
  ./install.sh -d /usr/share/themes
 ```
-## clone Icon Whitesur
+## Clone Icon Whitesur
 ```
 cd ..
 git clone https://github.com/vinceliuice/WhiteSur-icon-theme.git --depth=1
 cd WhiteSur-icon-theme
 ./install.sh -d /usr/share/icons/
 ```
-## clone Wallpaper
+## Clone Wallpaper
 ```
 cd ..
 git clone https://github.com/vinceliuice/WhiteSur-wallpapers.git --depth=1
